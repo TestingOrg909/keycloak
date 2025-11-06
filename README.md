@@ -9,7 +9,6 @@ Keycloak provides user federation, strong authentication, user management, fine-
 ## Help and Documentation
 
 * [Documentation](https://www.keycloak.org/documentation.html)
-* [User Mailing List](https://groups.google.com/d/forum/keycloak-user) - Mailing list for help and general questions about Keycloak
 
 
 ## Reporting Security Vulnerabilities
